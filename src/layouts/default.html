@@ -1,0 +1,51 @@
+
+<!doctype html>
+<html class="no-js" lang="bg">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aquarelle</title>
+    <link rel="stylesheet" href="{{root}}assets/fancybox/jquery.fancybox.css">
+    <link rel="stylesheet" href="{{root}}assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{root}}assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="{{root}}assets/css/app.css">
+    <script src="{{root}}assets/modernizr.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+  </head>
+  <body>
+    
+    <div class="off-canvas-wrapper">
+
+        <div class="off-canvas position-right" id="offCanvas" data-off-canvas>
+          <button class="close-button" aria-label="Close menu" type="button" data-close>
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <ul class="mobile-ofc vertical menu">
+            <li class="phone"><a href="tel:052610746">052&nbsp;610&nbsp;746</a></li>
+            <li class="phone"><a href="tel:0882122212">088&nbsp;212&nbsp;2&nbsp;212</a></li>
+            <li class="email"><a href="mailto:sales@planex.bg">sales@planex.bg</a></li>
+            <li class="web"><a href="http://realtyplanex.com" target="_blank">Realty Planex</a></li>
+            <li class="fb"><a href="https://www.facebook.com/realtyplanex/" title="Посети ни във Facebook" target="_blank">Посети ни във Facebook</a></li>
+          </ul>
+        </div>
+
+        <div class="off-canvas-content" data-off-canvas-content>
+          {{> navigation}}
+          {{> body}}
+          {{> footer}}
+        </div>
+
+    </div>
+    
+
+    <script src="{{root}}assets/js/app.js"></script>
+    <script src="{{root}}assets/fancybox/jquery.fancybox.pack.js"></script>
+    <script src="{{root}}assets/fancybox/fancybox_init.js"></script>
+    <script src="{{root}}assets/owl.carousel.min.js"></script>
+    <script src="{{root}}assets/jquery.smooth-scroll.js"></script>
+    <script src="{{root}}assets/validate/jquery.validate.min.js"></script>
+    <script src="{{root}}assets/validate/localization/messages_bg.min.js"></script>
+    <script src="{{root}}assets/jquery.form.js"></script>
+  </body>
+</html>

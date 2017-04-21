@@ -1,0 +1,120 @@
+/* COMMON STYLES */
+.row.expanded {
+  .column,
+  .columns {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+.triangle-down {
+  display: block;
+  margin: 0 auto;
+  width: 0;
+  height: 0;
+  border-left: 19px solid transparent;
+  border-right: 19px solid transparent;
+  border-top-width: 19px;
+  border-top-style: solid;
+}
+.triangle-down.white {
+  border-top-color: #fff;
+}
+.triangle-down.brown {
+  border-top-color: #a7855d;
+}
+.triangle-down.brown2 {
+  border-top-color: #886c4b;
+}
+.triangle-down.black {
+  border-top-color: #000;
+}
+.triangle-down.gray {
+  border-top-color: #ebebeb;
+}
+.triangle-down.over {
+  position: relative;
+    top: -21px;
+}
+.sgrada-na-godinata {
+  position: fixed;
+  z-index: 100000;
+  top: 0;
+  right: 0;
+}
+.sgrada-na-godinata-mobile {
+  background: #017f00;
+  padding: 10px 20px;
+  text-align: center;
+}
+.sgrada-na-godinata-mobile a {
+  color: #ffffff;
+  font-weight: 400;
+}
+.sgrada-na-godinata-mobile img {
+  display: block;
+  margin: 0 auto 5px;
+}
+
+a.arrow {
+  color: $black;
+  display: block;
+  &:after {
+    content: url(../img/a-button-after-arrow.png);
+    display: inline-block;
+    margin-left: 5px;
+    -webkit-transition: margin-left 0.15s linear;
+    transition: margin-left 0.15s linear;
+  }
+  &:hover {
+    color: $primary-color;
+    &:after {
+      margin-left: 9px;
+    }
+  }
+}
+
+.text-input {
+  position: relative;
+  label {
+    &.error {
+      color: red;
+      position: absolute;
+      z-index: 2;
+      top: 7px;
+      right: 4px;
+    }
+  }
+}
+
+.gcaptcha {
+  @extend .text-input;
+  label {
+    &.error {
+      left: 15px;
+      bottom: -20px;
+      right: inherit;
+      top: inherit;
+    }
+  }
+}
+
+form {
+  margin-bottom: rem-calc(15);
+  @include breakpoint(medium down) {
+    margin-bottom: rem-calc(5);
+  }
+  #ActionSubmit {
+    white-space: inherit;
+    line-height: 1.4;
+    @include breakpoint(medium down) {
+      white-space: nowrap;
+      margin-top: rem-calc(10);
+      margin-bottom: rem-calc(5);
+    }
+  }
+  [type='text'], [type='email'], textarea {
+    @include breakpoint(medium down) {
+      margin-bottom: rem-calc(10);
+    }
+  }
+}

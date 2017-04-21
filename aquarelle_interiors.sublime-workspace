@@ -1,0 +1,1359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tra",
+				"translateY"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-input"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"rem",
+				"rem-calc\t(_settings.scss)"
+			],
+			[
+				"jquery",
+				"jquery.fancybox.css\t(index.html)"
+			],
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"z-",
+				"z-index\t(_homepage.scss)"
+			],
+			[
+				"font-",
+				"font-size\t(_homepage.scss)"
+			],
+			[
+				"medi",
+				"medium-4\t(index.html)"
+			],
+			[
+				"small",
+				"small-12\t(index.html)"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"font",
+				"font-weight\t(_common.scss)"
+			],
+			[
+				"padin",
+				"padding-bottom"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"br",
+				"breakpoint"
+			],
+			[
+				"eas",
+				"ease-out\t(_settings.scss)"
+			],
+			[
+				"med",
+				"medium-8"
+			],
+			[
+				"con",
+				"contents\t(index.html)"
+			],
+			[
+				"s",
+				"scrollTop"
+			],
+			[
+				"sma",
+				"small-12\t(index.html)"
+			],
+			[
+				"row",
+				"row.expanded\t(_common.scss)"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"mediu",
+				"medium-6"
+			],
+			[
+				"home",
+				"home-head-left"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"show",
+				"show-for-small-only"
+			],
+			[
+				"Con",
+				"ContactForm_Form\t(index.html)"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"smal",
+				"small-12"
+			],
+			[
+				"medium",
+				"medium-up-4"
+			],
+			[
+				"name",
+				"Name"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"column",
+				"columns"
+			],
+			[
+				"cola",
+				"collapsed\t(_home.scss)"
+			],
+			[
+				"Sear",
+				"SearchAgain"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"lin",
+				"line-through"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"prev-",
+				"prev-slideshow.svg\t(index.html)"
+			],
+			[
+				"ass",
+				"assets\t(index.html)"
+			],
+			[
+				"slide",
+				"slide-info"
+			],
+			[
+				"owl",
+				"owl.carousel"
+			],
+			[
+				"top",
+				"topbar\t(topbar.html)"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"hide",
+				"hidden"
+			],
+			[
+				"floorpla",
+				"floorplan\t(property-general.html)"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"estate",
+				"estates-info"
+			],
+			[
+				"obj",
+				"object-info\t(index.html)"
+			],
+			[
+				"me",
+				"medium-5"
+			],
+			[
+				"prpert",
+				"property-general.html\t(index.html)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"property",
+				"property-general.html"
+			],
+			[
+				"blog-",
+				"blog-article.html\t(index.html)"
+			],
+			[
+				"te",
+				"text-right\t(index.html)"
+			],
+			[
+				"impo",
+				"important\t(app.js)"
+			],
+			[
+				"ba",
+				"background-repeat\t(_about.scss)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"sc",
+				"scale-color\t(_about.scss)"
+			],
+			[
+				"tel",
+				"tel:+35952610746"
+			],
+			[
+				"mail",
+				"mailto:sales@planex.bg"
+			],
+			[
+				"cont",
+				"contacts"
+			],
+			[
+				"esate",
+				"estate-complete-txt\t(_about.scss)"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"cate",
+				"categories\t(index.html)"
+			],
+			[
+				"ser",
+				"services.html\t(footer.html)"
+			],
+			[
+				"ver",
+				"vertical-align\t(index.html)"
+			],
+			[
+				"rem-",
+				"rem-calc"
+			],
+			[
+				"backgroun",
+				"background-size\t(index.html)"
+			],
+			[
+				"backgro",
+				"background-repeat\t(_home.scss)"
+			],
+			[
+				"per",
+				"performance-txt.svg"
+			],
+			[
+				"qui",
+				"quick-search\t(index.html)"
+			],
+			[
+				"searc",
+				"search-form\t(index.html)"
+			],
+			[
+				"sear",
+				"search-form\t(index.html)"
+			],
+			[
+				"pri",
+				"primary\t(_settings.scss)"
+			],
+			[
+				"mde",
+				"medium-6\t(index.html)"
+			],
+			[
+				"inli",
+				"inline-block\t(_topbar.scss)"
+			],
+			[
+				"float",
+				"float\t(_topbar.scss)"
+			],
+			[
+				"tex",
+				"text-right\t(topbar.html)"
+			],
+			[
+				"are",
+				"area-to"
+			],
+			[
+				"price",
+				"price-to"
+			],
+			[
+				"esta",
+				"estate-type-search"
+			],
+			[
+				"reg",
+				"region-search"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"input",
+				"input-box"
+			],
+			[
+				"pat",
+				"path\t(_icons.scss)"
+			],
+			[
+				"ev_",
+				"ev_target"
+			],
+			[
+				"ow",
+				"owl.carousel"
+			],
+			[
+				"set",
+				"set_carousel"
+			],
+			[
+				"wh",
+				"white\t(index.html)"
+			],
+			[
+				"menu",
+				"menu-item\t(topbar.html)"
+			],
+			[
+				"place",
+				"placeholder\tAttr"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"category",
+				"category1"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"object",
+				"object-wrapper"
+			],
+			[
+				"list",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"vertical",
+				"vertical-align\t(_global.scss)"
+			],
+			[
+				"sec",
+				"section-wrapper"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"pla",
+				"placehold.it/380x260"
+			],
+			[
+				"mui",
+				"mui-slide\t(transitions.md)"
+			],
+			[
+				"dis",
+				"display\t(_top-bar.scss)"
+			],
+			[
+				"coo",
+				"cookie"
+			],
+			[
+				"new",
+				"newcookie"
+			],
+			[
+				"out",
+				"outerWidth"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"sch",
+				"school"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 2295,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/pages/index.html",
+			"settings":
+			{
+				"buffer_size": 29186,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 4002,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/fancybox/fancybox_init.js",
+			"settings":
+			{
+				"buffer_size": 1659,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/scss/components/_common.scss",
+			"settings":
+			{
+				"buffer_size": 2089,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "_common.scss"
+			}
+		},
+		{
+			"file": "src/assets/scss/_styles.scss",
+			"settings":
+			{
+				"buffer_size": 8354,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "_styles.scss"
+			}
+		},
+		{
+			"file": "src/assets/scss/components/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 1881,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/scss/components/_navigation.scss",
+			"settings":
+			{
+				"buffer_size": 1212,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/scss/_settings.scss",
+			"settings":
+			{
+				"buffer_size": 16075,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"npm update -g typescript",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/aquarelle_interiors",
+		"/E/aquarelle_interiors/src",
+		"/E/aquarelle_interiors/src/assets",
+		"/E/aquarelle_interiors/src/assets/fancybox",
+		"/E/aquarelle_interiors/src/assets/scss",
+		"/E/aquarelle_interiors/src/assets/scss/components",
+		"/E/aquarelle_interiors/src/partials"
+	],
+	"file_history":
+	[
+		"/E/aquarelle_interiors/src/assets/scss/components/_typography.scss",
+		"/E/aquarelle_interiors/src/assets/scss/components/_fonts.scss",
+		"/E/plhome/dist/assets/css/app.css",
+		"/E/plhome/src/assets/scss/app.scss",
+		"/E/aquarelle_interiors/src/assets/fancybox/fancybox_init.js",
+		"/E/dc/Planex/plhome/campaign-site/site/index.php",
+		"/E/dc/Planex/plhome/campaign-site/site/assets/scripts.js",
+		"/E/plhome/src/pages/index.html",
+		"/E/aquarelle_interiors/src/assets/scss/components/_footer.scss",
+		"/E/aquarelle_interiors/node_modules/hover.css/scss/_options.scss",
+		"/E/aquarelle_interiors/src/assets/jquery.smooth-scroll.js",
+		"/E/iva/src/layouts/default.html",
+		"/E/iva/src/assets/js/app.js",
+		"/E/aquarelle_interiors/src/partials/footer.html",
+		"/E/aquarelle_interiors/src/partials/navigation.html",
+		"/E/rp/src/assets/scss/components/_forms.scss",
+		"/E/aquarelle_interiors/src/assets/scss/app.scss",
+		"/E/rp/src/layouts/default.html",
+		"/E/rp/src/assets/scss/components/_realtyp.scss",
+		"/E/aquarelle_interiors/config.yml",
+		"/E/aquarelle_interiors/src/assets/scss/components/_navigation.scss",
+		"/E/plhome/src/layouts/default.html",
+		"/E/dc/Planex/Aquarelle/campaigns/aquarelle/index.html",
+		"/E/iva/src/assets/scss/components/_addons.scss",
+		"/E/iva/src/assets/scss/components/_homepage.scss",
+		"/E/dc/Planex/Aquarelle/campaigns/aquarelle/js/scripts.js",
+		"/E/rp/src/assets/addons.js",
+		"/E/iva/src/assets/scss/components/_fonts.scss",
+		"/E/plhome/src/assets/js/app.js",
+		"/E/rp/src/assets/js/app.js",
+		"/E/dc/Planex/Aquarelle/campaigns/aquarelle/css/styles.css",
+		"/E/aquarelle_openparty/src/pages/index.html",
+		"/E/aquarelle_openparty/src/layouts/default.html",
+		"/E/iva/src/assets/scss/_settings.scss",
+		"/E/iva/src/assets/scss/components/_common.scss",
+		"/E/iva/src/partials/footer.html",
+		"/E/iva/src/partials/header.html",
+		"/E/iva/src/pages/index.html",
+		"/E/iva/src/assets/scss/app.scss",
+		"/E/iva/bower_components/foundation-sites/scss/typography/_base.scss",
+		"/E/dc/fantasive/site/helvetica-new/stylesheet.css",
+		"/E/plhome/src/assets/fancybox/fancybox_init.js",
+		"/E/plhome/src/assets/scripts.js",
+		"/E/plhome/src/assets/scss/_settings.scss",
+		"/E/plhome/config.yml",
+		"/E/plhome/gulpfile.babel.js",
+		"/E/rp/src/assets/scss/components/_home.scss",
+		"/E/rp/src/assets/scss/components/_topbar.scss",
+		"/E/rp/src/partials/topbar.html",
+		"/E/rp/src/assets/scss/_settings.scss",
+		"/E/rp/src/pages/residential.html",
+		"/E/rp/src/assets/scss/components/_top-offer-block.scss",
+		"/E/rp/src/assets/scss/components/_object.scss",
+		"/E/rp/src/assets/scss/components/_about.scss",
+		"/E/rp/src/assets/scss/components/_search.scss",
+		"/E/rp/src/pages/izbrani-imoti.html",
+		"/E/rp/src/pages/object-estates.html",
+		"/E/rp/src/pages/object-topoffers.html",
+		"/E/rp/src/pages/object-general.html",
+		"/E/rp/src/assets/scss/components/_services.scss",
+		"/E/rp/src/partials/services-submenu.html",
+		"/E/rp/src/assets/scss/components/_blog.scss",
+		"/E/rp/src/assets/scss/components/_contact.scss",
+		"/E/rp/src/pages/search.html",
+		"/E/rp/src/pages/service-3.html",
+		"/E/rp/src/pages/blog.html",
+		"/E/rp/src/pages/about.html",
+		"/E/rp/src/assets/scss/components/_property.scss",
+		"/E/rp/src/pages/property-general.html",
+		"/E/rp/src/partials/object-submenu.html",
+		"/E/rp/src/partials/object-bottom.html",
+		"/E/rp/src/assets/scss/components/_footer.scss",
+		"/E/rp/src/partials/footer.html",
+		"/E/rp/src/pages/index.html",
+		"/E/rp/bower_components/foundation-sites/scss/components/_callout.scss",
+		"/E/rp/src/layouts/search.html",
+		"/E/rp/src/assets/scss/app.scss",
+		"/E/rp/src/pages/object-video.html",
+		"/E/rp/src/assets/scss/components/_projects.scss",
+		"/E/rp/node_modules/hover.css/scss/_options.scss",
+		"/E/rp/config.yml",
+		"/E/rp/package.json",
+		"/E/rp/src/pages/contact.html",
+		"/E/rp/src/layouts/blogpost.html",
+		"/E/rp/src/pages/blog-article.html",
+		"/E/rp/src/assets/scss/components/_mobile.scss",
+		"/E/rp/src/assets/scss/components/_fonts.scss",
+		"/E/rp/src/layouts/contact.html",
+		"/E/rp/src/partials/object-header.html",
+		"/E/rp/src/pages/object-services.html",
+		"/E/rp/src/partials/header.html",
+		"/E/rp/src/layouts/services.html",
+		"/E/rp/src/layouts/property.html",
+		"/E/rp/src/layouts/projects.html",
+		"/E/rp/src/layouts/object.html",
+		"/E/rp/src/layouts/blog.html",
+		"/E/rp/src/layouts/about.html",
+		"/E/rp/bower_components/foundation-sites/scss/typography/_base.scss",
+		"/E/rp/src/assets/js/addons.js",
+		"/E/rp/src/pages/object-gallery.html",
+		"/E/rp/src/pages/service-5.html",
+		"/E/rp/src/pages/service-4.html",
+		"/E/rp/src/pages/service-2.html",
+		"/E/rp/src/pages/service-1.html",
+		"/E/rp/src/partials/property-header.html",
+		"/E/rp/src/partials/property-submenu.html",
+		"/E/rp/src/pages/object-brochure.html",
+		"/E/rp/src/pages/all-properties.html",
+		"/E/rp/src/pages/business.html",
+		"/E/rp/src/pages/holiday.html",
+		"/E/rp/src/assets/scss/components/_header.scss",
+		"/E/rp/bower_components/foundation-sites/scss/forms/_select.scss",
+		"/E/rp/bower.json",
+		"/E/rp/node_modules/panini/helpers/ifLayout.js",
+		"/E/rp/src/layouts/objects.html",
+		"/E/rp/src/assets/scss/components/_icons.scss",
+		"/E/rp/src/pages/services.html",
+		"/E/rp/src/assets/owl-carousel/owl.theme.css",
+		"/E/rp/bower_components/foundation-sites/scss/components/_button.scss",
+		"/E/rp/bower_components/foundation-sites/scss/util/_mixins.scss",
+		"/E/rp/src/assets/scss/components/_forms.less",
+		"/E/rp/src/assets/owl-carousel/owl.carousel.js",
+		"/E/rp/src/assets/scss/components/font-awesome.min.css",
+		"/E/rp/src/assets/scss/_realtyp.scss",
+		"/C/Users/Bobb/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/rp/bower_components/foundation-sites/scss/_global.scss",
+		"/C/Users/Bobb/AppData/Local/Temp/fz3temp-1/home1.less",
+		"/C/Users/Bobb/AppData/Local/Temp/fz3temp-1/home.less"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"images",
+			"error",
+			"label",
+			"intro",
+			"email",
+			"gmap",
+			"vendors",
+			"email",
+			"vendors",
+			"advantages",
+			"p2",
+			"p1",
+			"connect",
+			"banners_wrapper",
+			"banner_carousel_wrapper",
+			"moreinfo",
+			"advantages",
+			"location",
+			"owl",
+			"pattern_01",
+			"advantages",
+			"\n  <div class=\"row tabs-panel is-active\" id=\"panel1\">\n    <div class=\"small-12 medium-5 columns\">\n      <h3>Апартамент 53</h3>\n      <h5>Еклектична комбинация от ретро стил, елегантност, умерен цвят и блясък. В него доброто настроение винаги ще е с Вас.</h5>\n      <p>Ако сте любители....</p>\n      <a class=\"arrow\" href=\"#\">Още информация за апартамента</a>\n      <a class=\"button hollow\" href=\"#\">Заявете оглед</a>\n    </div>\n    <div class=\"small-12 medium-7 columns\">\n      <div class=\"interior _owl-carousel\">\n        <a data-fancybox=\"gal\" href=\"assets/img/interior-tmp.jpg\">\n          <img src=\"assets/img/interior-tmp.jpg\" alt=\"\" />\n        </a>\n      </div>\n    </div>\n  </div>",
+			"images/",
+			"Roboto",
+			"images/",
+			"intro",
+			"offCanvas",
+			"love",
+			"images/",
+			"columns",
+			"transform",
+			"webfonts",
+			"radio-buttons",
+			"0, 0, 0,",
+			"Forms",
+			"></",
+			"\n    <div class=\"column\">\n      <img class=\"svg\" src=\"assets/img/service1.svg\" alt=\"service1\" />\n      <hr class=\"hline-separator\" />\n      <div class=\"service-content\"></div>\n    </div>",
+			">\n",
+			"\n      <div class=\"column\">\n        <span class=\"number\">1 600+</span>\n        <span>обслужвани имота</span>\n      </div>",
+			"gradient",
+			"svg",
+			"label",
+			"80%",
+			"menu-wrapper",
+			"$breakpoint-classes",
+			"blog",
+			"interior",
+			"genera",
+			"icon",
+			" small-up-3",
+			"info-tabs",
+			"view-offer",
+			"promo-title",
+			"blog-articles",
+			"resize",
+			"\"] ",
+			"border",
+			"{\n",
+			"info-tabs",
+			"ed1f24",
+			"old",
+			"view-offer",
+			".estates-info",
+			".gray",
+			"top-offer-object",
+			"',\n",
+			"slide-info",
+			"placeholder",
+			");\n",
+			"../img/",
+			"anchor-color-hover",
+			"free",
+			"form",
+			"estate-info",
+			"estates-info",
+			"object-gallery",
+			"large-up-7",
+			"medium-up-7",
+			"\n        <div class=\"row small-up-4 medium-up-7 large-up-7 reserve\">\n          <div class=\"column\">Апартамент&nbsp;А-2</div>\n          <div class=\"column hide-for-small-only text-right\">А</div>\n          <div class=\"column hide-for-small-only text-right\">1</div>\n          <div class=\"column text-right\">2</div>\n          <div class=\"column hide-for-small-only text-right\">52 кв.м</div>\n          <div class=\"column text-right\">59 500&euro;</div>\n          <div class=\"column text-right status\">Резервиран</div>\n        </div>",
+			"background",
+			"background-position",
+			"linear-gradient",
+			"{}",
+			"object-info",
+			"info-tabs",
+			"font-size",
+			"article-date",
+			">\n",
+			"AboutPage",
+			"div",
+			"#",
+			"icon",
+			"object.html",
+			"object",
+			"object.html",
+			"hover",
+			"offers",
+			"carousel",
+			"offers-carousel",
+			"Top price",
+			"Levski",
+			"Briz",
+			"Varna",
+			"Aquarelle",
+			"Briz",
+			"Viva 3 - 2nd stage",
+			"Levski",
+			"Varna",
+			"Aquarelle",
+			">\n",
+			"експлаотация",
+			"primary",
+			"'service-1', ",
+			"pageName",
+			"icon",
+			"top-offer-object",
+			"carousel",
+			"to-portfolio",
+			"owl",
+			"\n\n      <div class=\"item-box\">\n        <a href=\"#\">\n          <img src=\"assets/img/service-3-portfolio.jpg\" alt=\"\" />\n        </a>\n      </div>",
+			"transition",
+			"assets",
+			"radius",
+			"share",
+			"Dropdown",
+			"{\n",
+			"body-font-family",
+			"palette"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"assets/img/",
+			"fonts",
+			"large-up-8",
+			"medium-up-8",
+			"AboutusPage",
+			"object-general.html",
+			"property",
+			"object-general.html",
+			"Подробна информация",
+			"кв. Левски",
+			"кв. Бриз",
+			"Варна",
+			"Акварел",
+			"кв. Бриз",
+			"Вива 3 - 2ри етап",
+			"кв. Левски",
+			"Варна",
+			"Акварел",
+			"експлоатация",
+			"layoutName",
+			"article",
+			"blog",
+			"09bb82",
+			"hkgrotesk-regular",
+			"hkgrotesk-regular-web",
+			"fast",
+			"$SC-red",
+			"$SC-orange",
+			"$SC-green",
+			"expanded",
+			"url('../img/",
+			"url(../img/",
+			"light",
+			"body-background",
+			"text",
+			"small-12"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/pages/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								658,
+								660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/assets/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1437,
+								1437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/assets/fancybox/fancybox_init.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								845,
+								845
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/assets/scss/components/_common.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2075,
+								2075
+							]
+						],
+						"settings":
+						{
+							"auto_name": "_common.scss",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/assets/scss/_styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1143,
+								1143
+							]
+						],
+						"settings":
+						{
+							"auto_name": "_styles.scss",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/assets/scss/components/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1664,
+								1664
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/assets/scss/components/_navigation.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								455
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/assets/scss/_settings.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1101,
+								1101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 527.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aquarelle_interiors.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\rp\\RealtyPlanex.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

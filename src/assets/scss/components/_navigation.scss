@@ -1,0 +1,79 @@
+nav {
+  color: #828282;
+  padding: 5px !important;
+}
+nav ul {
+  margin: 0;
+}
+nav ul li {
+  display: inline-block;
+  list-style: none;
+  margin-left: 0.75rem;
+}
+nav a,
+nav a ul li,
+nav ul li a {
+  color: #828282;
+  font-size: 0.875rem;
+}
+nav li.web,
+nav li.phone {
+  border-right: 1px solid #828282;
+  padding: 0.55rem 0.75rem 0.55rem 0;
+}
+nav li.email {
+  background: url(../img/email-icon.png) no-repeat 0 0.725rem;
+  padding: 0.55rem 0 0.55rem 2.5rem;
+}
+nav li.inquiry {
+  padding-top: 2px;
+}
+nav li.fb {
+  padding-top: 0.5rem;
+    margin-left: 1rem;
+}
+nav li.fb:hover {
+  opacity: 0.7;
+}
+nav .logo-top {
+  img,
+  svg,
+  .svg {
+    max-height: rem-calc(52);
+    width: auto;
+  }
+}
+nav .logo-top ul {
+  margin: 0;
+}
+nav .logo-top ul li {
+  float: none;
+  display: inline-block;
+}
+nav .logo-top ul li:first-child {
+  margin-left: 0;
+}
+nav .logo-top ul li:last-child {
+  border-left: 1px solid #828282;
+  padding: 0.55rem 0 0.55rem 0.55rem;
+}
+nav .logo-planex-top {
+  display: block;
+  padding: 0.55rem 0 0.55rem 0.55rem;
+}
+nav .logo-planex-top {
+  img,
+  svg,
+  .svg {
+    max-height: rem-calc(42);
+    width: auto;
+  }
+}
+nav .logo-top.mobile {
+  img,
+  svg,
+  .svg {
+    max-height: 2rem;
+    width: auto;
+  }
+}
